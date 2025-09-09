@@ -1,60 +1,89 @@
 # 📖 Lector de Mangas
 
-Una aplicación web sencilla y moderna para buscar, explorar y leer mangas en línea. Diseñada para ofrecer una experiencia de lectura cómoda, rápida y organizada, tanto en computadoras como en dispositivos móviles.
+**Lector de Mangas** es una aplicación web que permite explorar, buscar y leer mangas en línea de forma simple y rápida. 
+Diseñada para ofrecer una experiencia de lectura cómoda, con una interfaz moderna, adaptable a dispositivos móviles y opciones útiles como modo oscuro, 
+descarga de capítulos y filtro por idioma y género.
 
 ---
 
-## 📌 ¿De qué trata esta aplicación?
+## 🧾 ¿De qué trata esta aplicación?
 
-**Lector de Mangas** permite a los usuarios:
+Esta aplicación ofrece acceso a un catálogo de mangas disponibles el usuario puede buscar sus títulos favoritos, leer capítulos directamente desde el navegador y organizarlos en una lista personal de favoritos.
 
-- Buscar mangas por nombre o género
-- Visualizar la lista de capítulos disponibles
-- Leer los capítulos directamente desde el navegador
-- Cambiar entre temas claro y oscuro
-- Marcar mangas como favoritos
-
-Es una herramienta ideal para lectores de manga que desean una forma práctica de seguir sus series favoritas sin necesidad de descargar aplicaciones externas.
+La aplicación **no almacena contenido propio**, sino que funciona como un lector conectado a fuentes externas.
 
 ---
 
-## 🌍 Idiomas disponibles del manga
+## 🌐 Idiomas del contenido
 
-La aplicación puede mostrar mangas en distintos idiomas, dependiendo de la fuente utilizada:
+Los mangas están disponibles en múltiples idiomas según la fuente utilizada:
 
 - Español 🇪🇸
 - Inglés 🇬🇧
-- Japonés 🇯🇵 *(original)*
-- Otros idiomas si la API lo permite
+- Japonés 🇯🇵
+- Portugués 🇧🇷
+- Otros (dependiendo de la API)
 
-> *El idioma depende del contenido disponible en la API usada, como [MangaDex](https://api.mangadex.org)*
-
----
-
-## 🧩 Características principales
-
-- 🔎 Búsqueda de mangas por nombre o palabras clave
-- 📖 Lectura por página o modo scroll continuo
-- 🌓 Tema claro y oscuro
-- ❤️ Lista de favoritos (sin necesidad de cuenta)
-- 🔄 Interfaz responsive (adaptada a móviles)
-- 🔤 Filtro por idioma y género
+El usuario puede filtrar el contenido por idioma.
 
 ---
 
-## 🏷️ Géneros de manga compatibles
+## ✨ Características principales
 
-Estos son algunos de los géneros que podrás explorar en la aplicación:
+- 🔍 Buscar mangas por título o palabra clave
+- 📑 Ver lista de capítulos por manga
+- 📖 Leer manga en línea con visor tipo Webtoon o página a página
+- 🌙 Modo claro / oscuro
+- ❤️ Lista de favoritos sin necesidad de registrarse
+- 🌐 Filtrar por idioma y género
+- ⬇️ Descargar capítulos para leer sin conexión *(opcional)*
+- 📱 Compatible con móviles y tablets
+
+---
+
+## 🏷️ Géneros disponibles
+
+La app permite explorar mangas por género, como:
 
 - Acción
 - Aventura
+- Romance
 - Comedia
 - Drama
 - Fantasía
-- Misterio
-- Romance
 - Ciencia ficción
+- Misterio
 - Terror
 - Escolar
 - Recuentos de la vida
 - Seinen / Shonen / Shojo
+
+> *Los géneros pueden variar según los datos obtenidos de la API.*
+
+---
+
+## 🗓️ Fecha de lanzamiento
+
+- **Versión inicial:** 15 de septiembre de 2025
+- **Última actualización:** 8 de septiembre de 2025
+
+> *(Fechas ficticias, reemplaza según tu proyecto)*
+
+---
+
+## 📚 Número de capítulos disponibles
+
+- El número de capítulos varía por manga.
+- En promedio, cada manga incluye entre **5 y 500 capítulos**, dependiendo de la serie.
+
+---
+
+## 📥 Función de descargas
+
+- Los usuarios pueden **descargar capítulos completos** para leer sin conexión.
+- La descarga incluye imágenes comprimidas por capítulo.
+- Opción disponible en versiones de escritorio y móvil.
+
+---
+
+## 🚀 Instalación local
