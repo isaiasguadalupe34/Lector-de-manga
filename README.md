@@ -22,7 +22,6 @@ Los mangas están disponibles en múltiples idiomas según la fuente utilizada:
 - Inglés 🇬🇧
 - Japonés 🇯🇵
 - Portugués 🇧🇷
-- Otros (dependiendo de la API)
 
 El usuario puede filtrar el contenido por idioma.
 
@@ -36,7 +35,7 @@ El usuario puede filtrar el contenido por idioma.
 - 🌙 Modo claro / oscuro
 - ❤️ Lista de favoritos sin necesidad de registrarse
 - 🌐 Filtrar por idioma y género
-- ⬇️ Descargar capítulos para leer sin conexión *(opcional)*
+- ⬇️ Descargar capítulos para leer sin conexión 
 - 📱 Compatible con móviles y tablets
 
 ---
@@ -58,7 +57,7 @@ La app permite explorar mangas por género, como:
 - Recuentos de la vida
 - Seinen / Shonen / Shojo
 
-> *Los géneros pueden variar según los datos obtenidos de la API.*
+
 
 ---
 
@@ -67,7 +66,7 @@ La app permite explorar mangas por género, como:
 - **Versión inicial:** 15 de septiembre de 2025
 - **Última actualización:** 8 de septiembre de 2025
 
-> *(Fechas ficticias, reemplaza según tu proyecto)*
+
 
 ---
 
