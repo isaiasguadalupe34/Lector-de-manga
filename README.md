@@ -1,6 +1,6 @@
 # 📖 Lector de Mangas
 
-**Lector de Mangas** es una aplicación web que permite explorar, buscar y leer mangas en línea de forma simple y rápida. 
+Es una aplicación web que permite explorar, buscar y leer mangas en línea de forma simple y rápida. 
 Diseñada para ofrecer una experiencia de lectura cómoda, con una interfaz moderna, adaptable a dispositivos móviles y opciones útiles como modo oscuro, 
 descarga de capítulos y filtro por idioma y género.
 
@@ -10,7 +10,7 @@ descarga de capítulos y filtro por idioma y género.
 
 Esta aplicación ofrece acceso a un catálogo de mangas disponibles el usuario puede buscar sus títulos favoritos, leer capítulos directamente desde el navegador y organizarlos en una lista personal de favoritos.
 
-La aplicación **no almacena contenido propio**, sino que funciona como un lector conectado a fuentes externas.
+La aplicación no almacena contenido propio, sino que funciona como un lector conectado a fuentes externas.
 
 ---
 
